@@ -31,6 +31,6 @@
 *.out
 *.app
 
-**/SimpleEQ/Builds
-**/SimpleEQ/JuceLibraryCode
-**/SimpleEQ/.DS_Store
+**/Builds
+**/JuceLibraryCode
+**/.DS_Store
